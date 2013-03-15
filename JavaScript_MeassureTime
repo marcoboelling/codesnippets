@@ -1,0 +1,7 @@
+var TS = new Date().getTime();
+
+// code here...
+
+var TE = new Date().getTime();
+var time = TE - TS;
+alert(time);
